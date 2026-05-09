@@ -1,2 +1,2 @@
-# wilson-s_resume
-First personal resume build.
+# wilson-s_resume.
+First personal resume build..
